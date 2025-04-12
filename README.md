@@ -1,4 +1,4 @@
-# # 🔍 GitHub Seeker
+# 🔍 GitHub Seeker
 
 GitHub Seeker is a sleek and responsive web app that allows you to search and view GitHub user profiles using the GitHub API. Just enter a username, and you'll get all the relevant developer info — fast and clean!
 
