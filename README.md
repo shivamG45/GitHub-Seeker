@@ -4,7 +4,7 @@ GitHub Seeker is a sleek and responsive web app that allows you to search and vi
 
 ## 🌐 Live Demo
 
-🔗 [View Project](https://shivamG45.github.io/Projects/GitHubSeeker)
+🔗 [View Project](https://shivamg45.github.io/GitHub-Seeker/)
 
 ## 📸 Screenshots
 
